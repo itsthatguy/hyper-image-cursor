@@ -1,0 +1,32 @@
+{
+  "name": "hyper-image-cursor",
+  "version": "0.0.0",
+  "description": "Hyper terminal plugin for a custom image cursor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsthatguy/hyper-image-cursor.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "terminal",
+    "cursor",
+    "gif",
+    "image",
+    "shell"
+  ],
+  "author": "Kevin Altman <kevin@itsthatguy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsthatguy/hyper-image-cursor/issues"
+  },
+  "homepage": "https://github.com/itsthatguy/hyper-image-cursor#readme",
+  "dependencies": {
+    "file-url": "^2.0.2",
+    "lodash": "^4.17.4"
+  }
+}
