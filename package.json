@@ -1,6 +1,6 @@
 {
   "name": "hyper-image-cursor",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Hyper terminal plugin for a custom image cursor",
   "main": "index.js",
   "scripts": {
