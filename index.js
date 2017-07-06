@@ -59,7 +59,7 @@ exports.decorateConfig = (config) => {
   console.log(TERM_CSS);
 
   return Object.assign({}, config, {
-    cursorColor: 'transparent !important',
+    cursorColor: 'transparent',
     termCSS: TERM_CSS,
   });
 };
